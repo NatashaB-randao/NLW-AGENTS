@@ -61,14 +61,16 @@ Este projeto é uma evolução do clássico NLW eSports, agora com uma pegada to
 
 ```
 NLW-AGENTS/
-├── index.html                              # Página principal
-├── style.css                               # Estilos e animações
-├── script.js                               # Lógica principal e integração IA
-├── assets/
+├──assets/
 │   ├── logo.png                            # Logo do projeto
 │   └── bg.jpg                              # Imagem de fundo
 │   └── eSports interface.jpg               # Interface do eSports Assistant
-└── README.md
+├── index.html                              # Página principal
+├── README.md                               # Documentação do projeto
+├── script.js                               # Lógica principal e integração IA
+├── style.css                               # Estilos e animações
+
+
 ```
 
 ## 🚀 Como Executar
