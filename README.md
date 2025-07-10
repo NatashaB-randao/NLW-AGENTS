@@ -67,7 +67,7 @@ NLW-AGENTS/
 ├── assets/
 │   ├── logo.png                            # Logo do projeto
 │   └── bg.jpg                              # Imagem de fundo
-└── eSports interface.jpg                   # Interface do eSports Assistant
+│   └── eSports interface.jpg               # Interface do eSports Assistant
 └── README.md
 ```
 
