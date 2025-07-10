@@ -127,4 +127,15 @@ start index.html
 - **Variáveis e Funções**: Lógica de programação
 - **DOM**: Manipulação de elementos HTML
 - **APIs**: Integração com serviços externos
-- **Estruturas de
+- **Estruturas de Dados**: Objects, Arrays, Strings, Numbers, Booleans
+- **Async/Await**: Programação assíncrona moderna
+- **Event Handling**: Captura e tratamento de eventos do usuário
+
+### 🤖 Inteligência Artificial
+
+- **LLMs**: Large Language Models (Gemini 2.5 Flash)
+- **API Integration**: Comunicação com serviços de IA
+- **Prompt Engineering**: Técnicas one-shot, few-shot e chain of thought
+- **Agentes AI**: Assistentes com ferramentas especializadas
+- **Context Awareness**: Respostas baseadas em contexto específico
+- **Error Handling**: Tratamento robusto de exceções da API
